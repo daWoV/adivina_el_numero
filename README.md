@@ -1,1 +1,1 @@
-# encuentra_numero
+# adivina_el_numero
